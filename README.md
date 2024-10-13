@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Characters Generator](https://github.com/willdom-kahari/characters-generator)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **developer.wadu@gmail.com**
 
