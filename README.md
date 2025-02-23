@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdom-kahari" alt="willdom-kahari" /></a> </p>
 
-- 🔭 I’m currently working on [Characters Generator](https://github.com/willdom-kahari/characters-generator)
+- 🌱 I’m currently learning **Domain Driven Design**
 
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **developer.wadu@gmail.com**
+- 📫 How to reach me **developer.wadu at gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
