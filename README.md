@@ -8,6 +8,9 @@
   Intermediate Java Software Engineer
 </h3>
 
+🌱 I’m currently learning **Low-Level Design** &nbsp;
+🔭 I’m currently working on [Characters Generator](https://github.com/willdom-kahari/characters-generator)
+ 
 <!-- Badges -->
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-Intermediate-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
