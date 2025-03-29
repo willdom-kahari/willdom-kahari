@@ -19,7 +19,7 @@
 <!-- Trophies -->
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=willdom-kahari&column=7&margin-w=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=willdom-kahari&column=7&margin-w=15&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@
   <a href="https://linkedin.com/in/willdomkahari">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:willdomkahari@gmail.com">
+  <a href="mailto:developer.wadu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/willdom-kahari">
