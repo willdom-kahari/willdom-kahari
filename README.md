@@ -86,7 +86,6 @@
 
 <!-- Footer -->
 <p align="center" style="color: #6a737d; margin-top: 30px;">
-  <i>Built with ❤️</i><br>
   <sub>© 2025 Willdom Kahari</sub>
 </p>
 
