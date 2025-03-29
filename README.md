@@ -1,36 +1,93 @@
-<h1 align="center">Hi 👋, I'm Willdom (Wadu) Kahari</h1>
-<h3 align="center">Backend Java Developer</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdom-kahari" alt="willdom-kahari" /></a> </p>
+<!-- Header with Gradient Text -->
+<h1 style="margin-bottom: 10px; font-size: 2.5em; background: -webkit-linear-gradient(45deg, #2563eb, #7c3aed); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  Hi 👋, I'm Willdom Kahari
+</h1>
+<h3 style="margin-top: 0; color: #4a5568; font-weight: 500;">
+  Intermediate Java Software Engineer
+</h3>
 
-- 🌱 I’m currently learning **Domain Driven Design**
-
-- 📫 How to reach me **developer.wadu at gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/willdomkahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willdomkahari" height="30" width="40" /></a>
+<!-- Badges -->
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-Intermediate-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-Architect-6C3483?style=for-the-badge" />
+  <img alt="Location" src="https://img.shields.io/badge/-Harare%2C%20Zimbabwe-2d3436?style=for-the-badge&logo=map-marker&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdom-kahari&layout=compact&langs_count=10&show_icons=true&theme=transparent" />
+<!-- Trophies -->
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=willdom-kahari&column=7&margin-w=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+  </a>
 </p>
 
+<!-- Stats Grid -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=willdom-kahari&show_icons=true&count_private=true&theme=transparent&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=willdom-kahari&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdom-kahari&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willdom-kahari&theme=transparent&layout=compact&show_icons=true&count_private=truealt="willdom-kahari" />
-  &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willdom-kahari&theme=transparent&layout=compact" alt="willdom-kahari" />
+<!-- Tech Stack Section -->
+<h2 align="center" style="border-bottom: 1px solid #e1e4e8; padding-bottom: 10px; margin-top: 30px;">
+  🛠 Tech Stack
+</h2>
+
+### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
+
+### Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<!-- Contact Section -->
+<h2 align="center" style="border-bottom: 1px solid #e1e4e8; padding-bottom: 10px; margin-top: 30px;">
+  📫 Connect With Me
+</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/willdomkahari">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:willdomkahari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/willdom-kahari">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center" style="color: #6a737d; margin-top: 30px;">
+  <i>Built with ❤️</i><br>
+  <sub>© 2025 Willdom Kahari</sub>
+</p>
+
+</div>
