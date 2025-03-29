@@ -12,7 +12,7 @@
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-Intermediate-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-Architect-6C3483?style=for-the-badge" />
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-Beginner-6C3483?style=for-the-badge" />
   <img alt="Location" src="https://img.shields.io/badge/-Harare%2C%20Zimbabwe-2d3436?style=for-the-badge&logo=map-marker&logoColor=white" />
 </p>
 
