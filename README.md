@@ -38,7 +38,8 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdom-kahari&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdom-kahari&layout=compact&langs_count=8&theme=transparent&hide_border=true" /> -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdom-kahari&layout=compact&theme=transparent&hide_border=true" />
     </td>
   </tr>
 </table>
