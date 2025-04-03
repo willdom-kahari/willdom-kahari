@@ -89,7 +89,7 @@
 
 <!-- Footer -->
 <p align="center" style="color: #6a737d; margin-top: 30px;">
-  <sub>© 2025 Willdom Kahari</sub>
+  <sub>© 2025 Willdom (Wadu) Kahari</sub>
 </p>
 
 </div>
