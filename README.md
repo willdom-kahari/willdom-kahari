@@ -8,7 +8,7 @@
   Intermediate Java Software Engineer
 </h3>
 
-🌱 I’m currently learning **Low-Level Design** &nbsp;
+🌱 I’m currently learning **Multithreading** &nbsp;
 🔭 I’m currently working on [Characters Generator](https://github.com/willdom-kahari/characters-generator)
  
 <!-- Badges -->
